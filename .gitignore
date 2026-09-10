@@ -1,0 +1,10 @@
+.venv/
+.idea/
+.vs/
+.vscode/
+allure-results/
+allure-report/
+__pycache__/
+.env
+*.png
+*.html
